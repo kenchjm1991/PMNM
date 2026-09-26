@@ -46,3 +46,5 @@ Checksum: 622978d1bd8c3efed40b5e705f73cb77be9202ae075cdffe6fce7fe36d77f5dc
   Zone_Air_Humidity_Sensor: 11
   Zone_Air_Temperature_Sensor: 11
   Zone_Air_Temperature_Setpoint: 1
+
+
