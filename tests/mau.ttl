@@ -1,0 +1,15 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+
+<point_1>  a brick:Supply_Air_Temperature_Sensor ;
+           rdfs:label "Supply air temperature" .
+
+<point_2>  a brick:Return_Air_Temperature_Sensor ;
+           rdfs:label "Return air temperature" .
+
+<point_3>  a brick:Discharge_Pressure_Sensor ;
+           rdfs:label "Discharge pressure" .
+
+<zone_1>   a brick:HVAC_Zone ;
+           rdfs:label "Zone 1" .
