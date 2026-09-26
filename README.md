@@ -24,27 +24,50 @@ python -m src.main
 
 ## Kết quả
 Đã nạp 0 điểm đo
+
 Tổng trong database: 67
+
 Checksum: 622978d1bd8c3efed40b5e705f73cb77be9202ae075cdffe6fce7fe36d77f5dc
+
 Đếm theo loại:
+
   Discharge_Air_Temperature_Sensor: 1
+
   Electrical_Power_Sensor: 16
+
   Mixed_Air_Temperature_Sensor: 1
+
   Outside_Air_Flow_Sensor: 1
+
   Outside_Air_Humidity_Sensor: 1
+
   Outside_Air_Temperature_Sensor: 1
+
   Pressure_Sensor: 3
+
   Return_Air_Flow_Sensor: 1
+
   Return_Air_Humidity_Sensor: 1
+
   Return_Air_Temperature_Sensor: 1
+
   Supply_Air_Flow_Sensor: 1
+
   Supply_Air_Humidity_Sensor: 1
+
   Supply_Air_Temperature_Sensor: 11
+
   Temperature_Sensor: 2
+
   Zone_Air_Cooling_Temperature_Setpoint: 1
+
   Zone_Air_Heating_Temperature_Setpoint: 1
+
   Zone_Air_Humidity_Sensor: 11
+
   Zone_Air_Temperature_Sensor: 11
+
   Zone_Air_Temperature_Setpoint: 1
+  
 
 
